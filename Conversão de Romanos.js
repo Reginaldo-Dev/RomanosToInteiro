@@ -29,8 +29,6 @@ function romanToInt(s) {
 // Criando a exibição em vários consoles para mostrar como podem ser usados
 // O console irá visulazar no termonal os valores convertido
 console.log(romanToInt("III")); 
-console.log(romanToInt("IV"));  
-console.log(romanToInt("IX"));  
 console.log(romanToInt("LVIII"));
 console.log(romanToInt("MCMXCIV"));
 
